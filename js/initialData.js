@@ -4928,7 +4928,7 @@ export const INITIAL_HOLDINGS = [
     id: 'ast_ins_lic',
     name: "LIC's Jeevan Umang",
     category: 'bond',
-    symbolOrCode: 'POL# 319977831 (SA: ₹18.75L)',
+    symbolOrCode: 'POL# XXXXXX7831 (SA: ₹18.75L)',
     units: 1,
     buyPrice: 883620,
     investedValue: 883620,
